@@ -22,7 +22,7 @@
 ## ⚡ `> BOOT SEQUENCE`
 
 <div align="center">
-  <img src="assets/boot-sequence.svg" width="100%" alt="J.A.R.V.I.S. personnel file: Syed Kabeer Ahmed, Team Lead and Full Stack Developer at Shispare. Stack: MEAN, MERN, Next.js, NestJS. Sectors: Fintech, HR-Tech, Recruitment, E-commerce. AI suite: Claude, Codex, Cursor."/>
+  <img src="boot-sequence.svg" width="100%" alt="J.A.R.V.I.S. personnel file: Syed Kabeer Ahmed, Team Lead and Full Stack Developer at Shispare. MEAN, MERN, Next.js, NestJS."/>
 </div>
 
 > *"Sometimes you gotta run before you can walk."* — I just make sure the code is already tested when I do. 🔴🟡
