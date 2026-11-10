@@ -4,6 +4,10 @@
 
 <div align="center">
 
+<img src="assets/ironman-helmet.jpg" width="300" alt="Iron Man helmet"/>
+
+<br/><br/>
+
 <a href="https://github.com/SyedKabeerAhmed">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=900&color=FFB300&center=true&vCenter=true&width=760&height=50&lines=%3E+INITIALIZING+J.A.R.V.I.S.+PROTOCOL...;%3E+Team+Lead+%7C+Full+Stack+Developer;%3E+MEAN+%E2%80%A2+MERN+%E2%80%A2+Next.js+%E2%80%A2+NestJS;%3E+5%2B+Years+Building+Suits+of+Code;%3E+ALL+SYSTEMS+OPERATIONAL" alt="Typing SVG" />
 </a>
