@@ -1,12 +1,8 @@
 <!-- ═══════════════ J.A.R.V.I.S. // PROFILE INTERFACE ═══════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:5A0000,45:E62429,100:FFB300&text=SYED%20KABEER%20AHMED&fontColor=FFD700&fontSize=46&fontAlignY=36&desc=%E2%97%89%20J.A.R.V.I.S.%20ONLINE%20%E2%80%A2%20FULL%20STACK%20ENGINEER%20%E2%97%89&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Syed Kabeer Ahmed"/>
+<img src="image-1794289275347.png" width="100%" alt="Syed Kabeer Ahmed - J.A.R.V.I.S. Online - Full Stack Engineer"/>
 
 <div align="center">
-
-<img src="image-1794289275347.png" width="300" alt="Iron Man helmet"/>
-
-<br/><br/>
 
 <a href="https://github.com/SyedKabeerAhmed">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=900&color=FFB300&center=true&vCenter=true&width=760&height=50&lines=%3E+INITIALIZING+J.A.R.V.I.S.+PROTOCOL...;%3E+Team+Lead+%7C+Full+Stack+Developer;%3E+MEAN+%E2%80%A2+MERN+%E2%80%A2+Next.js+%E2%80%A2+NestJS;%3E+5%2B+Years+Building+Suits+of+Code;%3E+ALL+SYSTEMS+OPERATIONAL" alt="Typing SVG" />
