@@ -21,19 +21,9 @@
 
 ## ⚡ `> BOOT SEQUENCE`
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  J.A.R.V.I.S.  //  PERSONNEL FILE                            │
-├──────────────────────────────────────────────────────────────┤
-│  NAME ........ Syed Kabeer Ahmed                             │
-│  DESIGNATION . Team Lead, Full Stack Developer               │
-│  CURRENT OPS . Shispare  (Nov 2025 → Present)                │
-│  CORE STACK .. MEAN · MERN · Next.js · NestJS                │
-│  SECTORS ..... Fintech · HR-Tech · Recruitment · E-commerce  │
-│  AI SUITE .... Claude · Codex · Cursor                       │
-│  STATUS ...... ▰▰▰▰▰▰▰▰▰▰ 100%  READY FOR NEW MISSIONS       │
-└──────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+  <img src="assets/boot-sequence.svg" width="100%" alt="J.A.R.V.I.S. personnel file: Syed Kabeer Ahmed, Team Lead and Full Stack Developer at Shispare. Stack: MEAN, MERN, Next.js, NestJS. Sectors: Fintech, HR-Tech, Recruitment, E-commerce. AI suite: Claude, Codex, Cursor."/>
+</div>
 
 > *"Sometimes you gotta run before you can walk."* — I just make sure the code is already tested when I do. 🔴🟡
 
