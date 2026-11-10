@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="assets/ironman-helmet.jpg" width="300" alt="Iron Man helmet"/>
+<img src="download.jpg" width="300" alt="Iron Man helmet"/>
 
 <br/><br/>
 
